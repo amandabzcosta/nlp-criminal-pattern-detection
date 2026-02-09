@@ -49,7 +49,7 @@ A análise revelou que os "Hubs" de criminalidade (cidades centrais na rede) com
 Para garantir a robustez do modelo, a distribuição teórica (Álgebra Linear / Vetor Estacionário) foi confrontada com uma simulação de Monte Carlo (100.000 passos).
 * **Erro Médio Absoluto (MAE):** `0.0001` (Convergência quase perfeita).
 
-![Validação Cruzada](images/validacao_cruzada_simulacao_monte_carlo.png)
+![Validação Cruzada](images/validacao_cruzada_monte_carlo.png)
 *(Figura 4: Comparação entre a probabilidade calculada via Markov (Azul) e a frequência simulada (Laranja))*
 
 ## Estrutura do Projeto
